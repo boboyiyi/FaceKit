@@ -4,8 +4,8 @@ Simple face video processing toolkit with onnx runtime, including face detection
 ## Examples
 
 <table class="center">
-  <tr style="font-weight: bolder;text-align:center;">
-        <td>68 landmarks</td>
+  <tr>
+        <td><p align="center"><strong>68 landmarks</strong></p></td>
   </tr>
   <tr>
     <td >
@@ -15,8 +15,8 @@ Simple face video processing toolkit with onnx runtime, including face detection
 </table>
 
 <table class="center">
-  <tr style="font-weight: bolder;text-align:center;">
-        <td>98 landmarks</td>
+  <tr>
+        <td><p align="center"><strong>98 landmarks</strong></p></td>
   </tr>
   <tr>
     <td >
