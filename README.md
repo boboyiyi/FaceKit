@@ -1,5 +1,5 @@
 # FaceKit
-Simple face video processing toolkit with onnx runtime, including face detection, face alignment, face parsing and so on...
+Simple facial video processing toolkit with onnx runtime, including face detection, face alignment, face parsing and so on...
 
 ## Examples
 
