@@ -3,6 +3,8 @@ Simple facial video processing toolkit with onnx runtime, including face detecti
 
 ## Examples
 
+### Face detection & alignment
+
 <table class="center">
   <tr>
         <td width="50%"><p align="center"><strong>19 landmarks</strong></p></td>
@@ -48,6 +50,20 @@ Simple facial video processing toolkit with onnx runtime, including face detecti
   </tr>
 </table>
 
+### Face parsing
+
+> Facekit -> point list, SAM -> parsing
+
+<table class="center">
+  <tr>
+        <td><p align="center"><strong>Parsing</strong></p></td>
+  </tr>
+  <tr>
+    <td >
+     <video src="https://github.com/boboyiyi/FaceKit/assets/10248980/c830c975-97ec-40b6-a994-9be006d2c61b" controls preload></video>
+    </td>
+  </tr>
+</table>
 
 ## TODO
 
